@@ -1,0 +1,101 @@
+name,length,width,texture,edge,arrangement,shape
+seetha,5.2,2.3,smooth,straight,alternate,elliptic
+seetha,4.8,2.0,smooth,straight,alternate,elliptic
+seetha,6.1,2.7,smooth,straight,alternate,elliptic
+seetha,3.9,1.8,smooth,straight,alternate,elliptic
+seetha,5.5,2.4,smooth,straight,alternate,elliptic
+kaju,14.2,5.5,leathery,askew,spiral,obovate
+kaju,11.7,5.1,leathery,askew,spiral,obovate
+kaju,19.0,8.0,leathery,askew,spiral,obovate
+kaju,8.5,3.7,leathery,askew,spiral,obovate
+kaju,13.0,5.0,leathery,askew,spiral,obovate
+elachi,15.2,2.4,glossy,jagged,alternate,lanceolate
+elachi,17.0,3.8,glossy,jagged,alternate,lanceolate
+elachi,13.8,2.1,glossy,jagged,alternate,lanceolate
+elachi,18.0,4.5,glossy,jagged,alternate,lanceolate
+elachi,16.0,3.0,glossy,jagged,alternate,lanceolate
+mouha,18.2,9.5,smooth,askew,alternate,ovate
+mouha,22.0,12.0,smooth,askew,alternate,ovate
+mouha,13.8,26.0,smooth,askew,alternate,ovate
+mouha,20.0,11.0,smooth,askew,alternate,ovate
+mouha,16.0,7.0,smooth,askew,alternate,ovate
+lemon,3.8,2.2,smooth,straight,alternate,elliptic
+lemon,2.7,1.3,smooth,straight,alternate,elliptic
+lemon,3.4,2.0,smooth,straight,alternate,elliptic
+lemon,4.0,2.8,smooth,straight,alternate,elliptic
+lemon,3.1,1.7,smooth,straight,alternate,elliptic
+Aswaganda,4.5,2.6,velvety,askew,alternate,ovate
+Aswaganda,6.2,3.5,velvety,askew,alternate,ovate
+Aswaganda,3.7,2.2,velvety,askew,alternate,ovate
+Aswaganda,5.0,2.8,velvety,askew,alternate,ovate
+Aswaganda,4.0,2.0,velvety,askew,alternate,ovate
+Neem,6.2,2.0,rough,jagged,alternate,lanceolate
+Neem,7.0,1.5,rough,jagged,alternate,lanceolate
+Neem,5.8,1.6,rough,jagged,alternate,lanceolate
+Neem,4.5,1.2,rough,jagged,alternate,lanceolate
+Neem,8.0,2.3,rough,jagged,alternate,lanceolate
+long,8.0,3.2,smooth,straight,alternate,elliptic
+long,7.5,3.0,smooth,straight,alternate,elliptic
+long,9.0,3.8,smooth,straight,alternate,elliptic
+long,5.0,2.0,smooth,straight,alternate,elliptic
+long,6.5,2.7,smooth,straight,alternate,elliptic
+conder,3.2,1.4,smooth,askew,alternate,ovate
+conder,4.1,1.9,smooth,askew,alternate,ovate
+conder,3.5,1.6,smooth,askew,alternate,ovate
+conder,2.9,1.2,smooth,askew,alternate,ovate
+conder,3.8,1.7,smooth,askew,alternate,ovate
+sidha payam,7.2,2.3,smooth,straight,opposite,elliptic
+sidha payam,8.0,2.7,smooth,straight,opposite,elliptic
+sidha payam,6.9,2.2,smooth,straight,opposite,elliptic
+sidha payam,8.5,2.5,smooth,straight,opposite,elliptic
+sidha payam,7.7,2.4,smooth,straight,opposite,elliptic
+pathar chatta,7.0,4.8,waxy,jagged,opposite,obovate
+pathar chatta,6.2,3.9,waxy,jagged,opposite,obovate
+pathar chatta,8.3,5.1,waxy,jagged,opposite,obovate
+pathar chatta,5.5,3.2,waxy,jagged,opposite,obovate
+pathar chatta,7.8,4.4,waxy,jagged,opposite,obovate
+Tej,8.0,3.6,leathery,askew,alternate,lanceolate
+Tej,9.3,4.1,leathery,askew,alternate,lanceolate
+Tej,7.2,3.0,leathery,askew,alternate,lanceolate
+Tej,10.0,4.5,leathery,askew,alternate,lanceolate
+Tej,6.8,2.8,leathery,askew,alternate,lanceolate
+Neelamari (mitali),4.8,1.6,smooth,askew,alternate,ovate
+Neelamari (mitali),5.5,1.8,smooth,askew,alternate,ovate
+Neelamari (mitali),3.9,1.3,smooth,askew,alternate,ovate
+Neelamari (mitali),6.0,2.2,smooth,askew,alternate,ovate
+Neelamari (mitali),5.2,1.9,smooth,askew,alternate,ovate
+Sravanthi,4.2,2.6,smooth,jagged,opposite,ovate
+Sravanthi,3.6,2.1,smooth,jagged,opposite,ovate
+Sravanthi,5.0,2.9,smooth,jagged,opposite,ovate
+Sravanthi,4.7,3.1,smooth,jagged,opposite,ovate
+Sravanthi,3.8,2.3,smooth,jagged,opposite,ovate
+Anjeer,26.0,24.0,waxy,straight,alternate,palmate-lobed
+Anjeer,30.5,28.0,waxy,straight,alternate,palmate-lobed
+Anjeer,22.5,21.5,waxy,straight,alternate,palmate-lobed
+Anjeer,28.0,26.0,waxy,straight,alternate,palmate-lobed
+Anjeer,24.0,22.0,waxy,straight,alternate,palmate-lobed
+tulsi,4.0,2.0,slightly hairy,jagged,opposite,ovate
+tulsi,3.9,2.1,slightly hairy,jagged,opposite,ovate
+tulsi,4.3,2.2,slightly hairy,jagged,opposite,ovate
+tulsi,4.1,2.1,slightly hairy,jagged,opposite,ovate
+tulsi,3.7,1.9,slightly hairy,jagged,opposite,ovate
+ajvine,3.6,1.7,smooth,jagged,alternate,ovate
+ajvine,3.8,1.9,smooth,jagged,alternate,ovate
+ajvine,3.4,1.6,smooth,jagged,alternate,ovate
+ajvine,3.7,1.8,smooth,jagged,alternate,ovate
+ajvine,3.5,1.8,smooth,jagged,alternate,ovate
+jade plant,4.1,2.5,fleshy,entire,opposite,obovate
+jade plant,3.8,2.2,fleshy,entire,opposite,obovate
+jade plant,4.3,2.7,fleshy,entire,opposite,obovate
+jade plant,3.9,2.4,fleshy,entire,opposite,obovate
+jade plant,4.0,2.6,fleshy,entire,opposite,obovate
+muleti,8.1,1.5,smooth,entire,alternate,lanceolate
+muleti,7.8,1.4,smooth,entire,alternate,lanceolate
+muleti,8.3,1.7,smooth,entire,alternate,lanceolate
+muleti,7.7,1.3,smooth,entire,alternate,lanceolate
+muleti,8.0,1.5,smooth,entire,alternate,lanceolate
+sarso,7.2,2.2,smooth,jagged,alternate,lanceolate
+sarso,6.8,2.0,smooth,jagged,alternate,lanceolate
+sarso,7.4,2.3,smooth,jagged,alternate,lanceolate
+sarso,7.1,2.1,smooth,jagged,alternate,lanceolate
+sarso,7.3,2.2,smooth,jagged,alternate,lanceolate
